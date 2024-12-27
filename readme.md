@@ -1,6 +1,5 @@
 # DNS Server Project
 
-![DNS Server](https://example.com/dns-server-image.png)
 
 Welcome to the DNS Server project! This project is designed to provide a robust and efficient DNS server written in Ruby.
 
