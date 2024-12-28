@@ -1,4 +1,4 @@
-y# DNS Server Project
+# DNS Server Project
 
 
 Welcome to the DNS Server project! This project is designed to provide a robust and efficient DNS server written in Ruby.
