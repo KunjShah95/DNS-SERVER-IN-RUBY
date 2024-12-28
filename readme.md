@@ -1,4 +1,4 @@
-# DNS Server Project
+y# DNS Server Project
 
 
 Welcome to the DNS Server project! This project is designed to provide a robust and efficient DNS server written in Ruby.
@@ -36,10 +36,5 @@ We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Badges
-
-![Build Status](https://img.shields.io/github/workflow/status/yourusername/dns-server/CI)
-![License](https://img.shields.io/github/license/yourusername/dns-server)
-![Issues](https://img.shields.io/github/issues/yourusername/dns-server)
 
 Thank you for using our DNS Server! 😊
