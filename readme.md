@@ -15,7 +15,7 @@ Welcome to the DNS Server project! This project is designed to provide a robust 
 To install the DNS Server, clone the repository and run the setup script:
 
 ```bash
-git clone https://github.com/yourusername/dns-server.git
+git clone https://github.com/KunjShah95/dns-server.git
 cd dns-server
 ./setup.sh
 ```
